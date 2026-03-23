@@ -10,7 +10,7 @@
 ▶ https://streamable.com/4yasdi  
 
 ## 🖼️ Preview
-![GambleRig UI](attachment:image.webp)
+![GambleRig UI](./image.webp)
 
 ---
 
@@ -33,4 +33,4 @@
 ## 💎 Premium
 🃏 Full Blackjack + 50/50  
 💰 **200m (DonutSMP)**  
-📩 Discord: **jtc8**
+📩 Discord: **x9perf**
