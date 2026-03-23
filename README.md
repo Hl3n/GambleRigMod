@@ -6,6 +6,14 @@
 
 ---
 
+## 📥 Installation
+1. Install **Fabric Loader** → https://fabricmc.net/use/installer/  
+2. Download **Fabric API** → https://modrinth.com/mod/fabric-api  
+3. Put **Fabric API** + **GambleRigMod** into your `.minecraft/mods` folder  
+4. Launch Minecraft using the **Fabric profile**
+
+---
+
 ## 🎥 Showcase
 ▶ https://streamable.com/4yasdi  
 
