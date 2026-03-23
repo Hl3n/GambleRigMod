@@ -37,6 +37,5 @@ Use at your own risk on servers.
 
 ## ⭐ Notes
 - Designed primarily for **DonutSMP**, but may work on other servers.
-- No guarantees for bypassing server protections.
 
 ---
