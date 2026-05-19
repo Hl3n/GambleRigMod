@@ -41,4 +41,4 @@
 ## 💎 Premium
 🃏 Full Blackjack + 50/50  
 💰 **200m (DonutSMP)**  
-📩 Discord: **x9perf**
+📩 Discord: **rvdownsu**
